@@ -1,0 +1,65 @@
+{
+  "resume": {
+    "id": "RESUME-0001",
+    "name": "Sarah White",
+    "email": "sarah.white@email.com",
+    "current_title": "Web Developer",
+    "years_experience": 13,
+    "skills": [
+      "TypeScript",
+      "NoSQL", 
+      "GCP",
+      "Vue.js",
+      "SQL",
+      "Deep Learning",
+      "Python",
+      "Excel",
+      "Express.js",
+      "Go",
+      "Docker",
+      "Power BI"
+    ],
+    "education": [
+      {
+        "degree": "Professional Certificate",
+        "field": "International Business",
+        "institution": "International Institute of San Francisco",
+        "graduation_year": 2016
+      }
+    ],
+    "experience": [
+      {
+        "title": "Web Developer",
+        "company": "IT Services Group",
+        "description": "Managed frontend infrastructure and implemented best practices for deployment. Automated key processes resulting in improved efficiency and reduced errors.",
+        "start_date": "September 2022",
+        "end_date": "Present"
+      },
+      {
+        "title": "Lead Developer",
+        "company": "Management Solutions Inc",
+        "description": "Responsible for developing and maintaining web applications using Rust and MATLAB. Collaborated with cross-functional teams to deliver high-quality solutions.",
+        "start_date": "December 2019",
+        "end_date": "June 2022"
+      }
+    ]
+  },
+  "job_posting": {
+    "id": "JOB-7253",
+    "title": "Web Developer",
+    "company": "Healthcare Solutions Corp",
+    "description": "We are seeking a talented Web Developer to join our Research and Development team at Healthcare Solutions Corp. The ideal candidate will have strong experience with Microservices, AWS, Windows and a passion for building innovative solutions. You will work on cutting-edge projects that impact customer satisfaction.",
+    "requirements": {
+      "skills": [
+        "Microservices",
+        "AWS",
+        "Windows",
+        "Jenkins",
+        "Go",
+        "Scrum"
+      ],
+      "experience": "5-10 years of experience",
+      "education": "PhD in Mathematics or related field"
+    }
+  }
+}

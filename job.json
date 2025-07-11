@@ -1,0 +1,56 @@
+{
+  "job_id": "JOB-7253",
+  "title": "Web Developer",
+  "company": "Healthcare Solutions Corp",
+  "department": "Engineering",
+  "location": "Phoenix, FL",
+  "employment_type": "Contract",
+  "experience_required": {
+    "minimum_years": 5,
+    "maximum_years": 10
+  },
+  "description": "We are seeking a talented Web Developer to join our Research and Development team at Healthcare Solutions Corp. The ideal candidate will have strong experience with Microservices, AWS, Windows and a passion for building innovative solutions. You will work on cutting-edge projects that impact customer satisfaction.",
+  "responsibilities": [
+    "Design and develop robust applications",
+    "Collaborate with stakeholders to deliver features",
+    "Participate in architecture decisions",
+    "Mentor team members and share knowledge",
+    "Contribute to best practices"
+  ],
+  "requirements": {
+    "education": "PhD in Mathematics or related field",
+    "required_skills": [
+      "Microservices",
+      "AWS",
+      "Windows",
+      "Jenkins",
+      "Go",
+      "Scrum"
+    ],
+    "nice_to_have_skills": [
+      "Java",
+      "Kotlin",
+      "Azure",
+      "Deep Learning",
+      "Flask",
+      "React",
+      "PyTorch"
+    ],
+    "soft_skills": [
+      "Analytical Thinking",
+      "Customer Service",
+      "Problem Solving"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity",
+    "Comprehensive health, dental, and vision insurance",
+    "Flexible work arrangements",
+    "Professional development opportunities",
+    "401(k) matching",
+    "Generous PTO policy"
+  ],
+  "salary_range": null,
+  "posted_date": "2025-06-30",
+  "application_deadline": "2025-08-28"
+}

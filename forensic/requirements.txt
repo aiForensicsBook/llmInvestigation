@@ -1,0 +1,63 @@
+# Forensic Framework Dependencies
+# =====================================
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.5.0
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Statistical analysis
+statsmodels>=0.13.0
+pingouin>=0.5.0  # Advanced statistical tests
+
+# Model interpretability
+shap>=0.41.0  # SHAP analysis (if available, otherwise custom implementation)
+
+# Data drift and monitoring
+evidently>=0.4.0  # Bias and drift detection
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+plotly>=5.0.0
+
+# Web dashboard
+streamlit>=1.25.0
+streamlit-authenticator>=0.2.2
+
+# Database and storage
+sqlite3  # Built into Python
+sqlalchemy>=1.4.0
+
+# Cryptography and security
+hashlib  # Built into Python
+cryptography>=3.4.0
+
+# File handling and metadata
+pathlib  # Built into Python
+mimetypes  # Built into Python
+magic  # File type detection
+
+# Logging and monitoring
+logging  # Built into Python
+structlog>=22.0.0  # Structured logging
+
+# Configuration
+pyyaml>=6.0
+configparser  # Built into Python
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.0.0
+
+# Optional but recommended
+# python-magic>=0.4.27  # Enhanced file type detection
+# psutil>=5.9.0  # System monitoring
+# watchdog>=2.1.0  # File system monitoring

@@ -1,0 +1,107 @@
+{
+  "personal_info": {
+    "name": "Sarah White",
+    "email": "sarah.white@email.com",
+    "phone": "(593) 907-7613",
+    "location": "Boston, VT",
+    "linkedin": "linkedin.com/in/sarah-white",
+    "github": "github.com/sarahwhite"
+  },
+  "summary": "Experienced professional with 13 years in software development and technology. Proven track record of delivering high-quality solutions and leading technical initiatives. Strong expertise in JavaScript, C#, Python.",
+  "years_of_experience": 13,
+  "work_experience": [
+    {
+      "company": "IT Services Group",
+      "position": "Web Developer",
+      "start_date": "September 2022",
+      "end_date": "Present",
+      "description": "Managed frontend infrastructure and implemented best practices for deployment. Automated key processes resulting in improved efficiency and reduced errors.",
+      "achievements": [
+        "Achieved 40% improvement in user satisfaction",
+        "Led team of 3 developers on innovative projects",
+        "Implemented improved systems resulting in cost savings"
+      ]
+    },
+    {
+      "company": "Management Solutions Inc",
+      "position": "Lead Developer",
+      "start_date": "December 2019",
+      "end_date": "June 2022",
+      "description": "Responsible for developing and maintaining web applications using Rust and MATLAB. Collaborated with cross-functional teams to deliver high-quality solutions.",
+      "achievements": [
+        "Achieved 43% improvement in performance",
+        "Led team of 15 developers on innovative projects",
+        "Implemented new systems resulting in cost savings"
+      ]
+    },
+    {
+      "company": "Finance Solutions Inc",
+      "position": "Senior Software Engineer",
+      "start_date": "May 2018",
+      "end_date": "June 2019",
+      "description": "Managed data processing infrastructure and implemented best practices for monitoring. Automated key processes resulting in improved efficiency and reduced errors.",
+      "achievements": [
+        "Achieved 30% improvement in code quality",
+        "Led team of 13 developers on high-priority projects",
+        "Implemented improved systems resulting in cost savings"
+      ]
+    },
+    {
+      "company": "Healthcare Solutions Corp",
+      "position": "Data Scientist",
+      "start_date": "October 2014",
+      "end_date": "March 2018",
+      "description": "Architected and built mobile platforms handling high-volume transactions. Optimized performance and ensured system reliability and scalability.",
+      "achievements": [
+        "Achieved 31% improvement in code quality",
+        "Led team of 13 developers on high-priority projects",
+        "Implemented improved systems resulting in cost savings"
+      ]
+    },
+    {
+      "company": "Tech Solutions Inc",
+      "position": "Data Engineer",
+      "start_date": "September 2012",
+      "end_date": "June 2014",
+      "description": "Developed scalable distributed solutions using modern technologies including Swift and Ruby. Participated in code reviews and mentored junior developers.",
+      "achievements": [
+        "Achieved 50% improvement in efficiency",
+        "Led team of 5 developers on critical projects",
+        "Implemented scalable solutions resulting in cost savings"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "International Institute of San Francisco",
+      "degree": "Professional Certificate",
+      "field": "International Business",
+      "graduation_year": 2016,
+      "gpa": 3.98
+    }
+  ],
+  "skills": {
+    "technical": [
+      "TypeScript",
+      "NoSQL",
+      "GCP",
+      "Vue.js",
+      "SQL",
+      "Deep Learning",
+      "Python",
+      "Excel",
+      "Express.js",
+      "Go",
+      "Docker",
+      "Power BI"
+    ],
+    "soft": [
+      "Adaptability",
+      "Attention to Detail",
+      "Collaboration",
+      "Communication"
+    ]
+  },
+  "certifications": [],
+  "resume_id": "RESUME-0001"
+}

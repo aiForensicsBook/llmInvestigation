@@ -1,0 +1,50 @@
+{
+  "framework": {
+    "name": "Forensic Collection Framework",
+    "version": "1.0.0",
+    "description": "Production-ready digital forensics collection and validation framework"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file_prefix": "forensic_collection"
+  },
+  "collection": {
+    "default_hash_algorithms": ["md5", "sha1", "sha256"],
+    "preserve_timestamps": true,
+    "verify_integrity": true,
+    "create_reports": true
+  },
+  "validation": {
+    "default_monitoring_interval": 3600,
+    "database_name": "evidence_integrity.db",
+    "alert_levels": ["LOW", "MEDIUM", "HIGH", "CRITICAL"],
+    "auto_validate_on_collection": true
+  },
+  "chain_of_custody": {
+    "require_digital_signatures": true,
+    "track_all_access": true,
+    "verify_integrity_on_transfer": true,
+    "generate_reports": true
+  },
+  "metadata": {
+    "extract_exif": true,
+    "analyze_headers": true,
+    "calculate_entropy": true,
+    "extract_strings": true,
+    "max_string_length": 1000,
+    "min_string_length": 4
+  },
+  "security": {
+    "secure_deletion": false,
+    "encryption_required": false,
+    "access_control_required": true,
+    "audit_all_operations": true
+  },
+  "output": {
+    "default_format": "json",
+    "include_metadata": true,
+    "compress_reports": false,
+    "timestamp_format": "iso"
+  }
+}

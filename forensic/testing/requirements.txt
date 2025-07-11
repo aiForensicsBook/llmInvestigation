@@ -1,0 +1,43 @@
+# Forensic Testing Suite Requirements
+# ===================================
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine learning and metrics
+scikit-learn>=1.0.0
+
+# Visualization (optional but recommended)
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Additional utilities
+python-dateutil>=2.8.0
+pathlib2>=2.3.0;python_version<"3.4"
+
+# Optional: Advanced NLP for enhanced prompt analysis
+# nltk>=3.6.0
+# transformers>=4.0.0
+# torch>=1.9.0
+
+# Optional: Enhanced statistical analysis
+# statsmodels>=0.12.0
+# pingouin>=0.5.0
+
+# SHAP Analysis Dependencies (required for shap_analyzer.py)
+# Note: Custom SHAP implementation included to avoid external dependencies
+
+# Evidently AI Library (required for evidently_analyzer.py)
+evidently>=0.4.0
+
+# Development and testing (optional)
+pytest>=6.0.0
+pytest-cov>=2.0.0
+black>=21.0.0
+flake8>=3.8.0
+
+# Documentation (optional)
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
